@@ -12,3 +12,7 @@ Inheritance
 Abstraction
 Encapsulation
 Polymorphism
+
+## Application Functionalities
+
+Menu, Discount, Order, Reservation, Revenue, Staff and Table
