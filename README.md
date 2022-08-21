@@ -7,7 +7,7 @@
 4. Interface Segregation Principle
 5. Dependency Inversion Principle
 
-## Object Oriented and Design Principles Used
+## Object Oriented and Design Concepts Used
 Inheritance,
 Abstraction,
 Encapsulation,
