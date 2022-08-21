@@ -8,9 +8,9 @@
 5. Dependency Inversion Principle
 
 ## Object Oriented and Design Principles Used
-Inheritance
-Abstraction
-Encapsulation
+Inheritance,
+Abstraction,
+Encapsulation,
 Polymorphism
 
 ## Application Functionalities
